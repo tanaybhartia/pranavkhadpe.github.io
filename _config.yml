@@ -7,7 +7,7 @@ description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
+external-image: true
 picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
@@ -52,10 +52,10 @@ medium: medium
 email: myemail@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
+    pranavkhadpe:
+        name: Pranav Khadpe
         bio: A Man who travels the world eating noodles
-        external-image: false
+        external-image: true
         picture: assets/images/profile.jpg
         twitter: johndoe
     jamesfoster:
