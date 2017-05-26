@@ -105,5 +105,5 @@ gems:
   - jekyll-feed
   - jemoji
 
-jekyll-mentions:
-    base_url: https://github.com
+#jekyll-mentions:
+ #   base_url: https://github.com
