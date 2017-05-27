@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: assets/cv.pdf
 
-url: https://pranavkhadpe.github.io/webpage
+url: https://pranavkhadpe.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
