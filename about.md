@@ -7,9 +7,9 @@ layout: page
 
 <blockquote>
   <p>
-    Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
+    I'm going to open a shop next to Forever 21 and call it Finally 22.
   </p>
-  <footer><cite title="Antoine de Saint-Exupéry">Antoine de Saint-Exupéry</cite></footer>
+  <footer><cite title="Not Will Ferrell">Not Will Ferrell</cite></footer>
 </blockquote>
 
 
