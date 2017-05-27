@@ -13,7 +13,7 @@ layout: page
 </blockquote>
 
 
-<p>I am a third year undergraduate student in the Department of <a href="www.ee.iitkgp.ac.in">Electrical Engineering</a>, Indian Institute of Technology Kharagpur, India</p>
+<p>I am a third year undergraduate student in the Department of <a href="http://ee.iitkgp.ac.in">Electrical Engineering</a>, Indian Institute of Technology Kharagpur, India</p>
 
 <h2>Skills</h2>
 
