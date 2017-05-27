@@ -35,21 +35,21 @@ disqus:
 
 # if you don't have any of social below, comment the line
 facebook: myfacebook
-twitter: mytwitter
+#twitter: mytwitter
 # google: mygoogle
-# instagram: myinstagram
+instagram: pranavkhadpe
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: pranav-khadpe-8b406a103
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: PranavKhadpe
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+#medium: medium
 # vimeo: myvimeo
-email: myemail@gmail.com
+email: pranav.khadpe@gmail.com
 
 authors:
     pranavkhadpe:
